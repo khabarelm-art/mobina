@@ -1,0 +1,29 @@
+{
+  "name": "مکتب آیین — آیین دادرسی مدنی",
+  "short_name": "مکتب آیین",
+  "description": "آموزش کامل قانون آیین دادرسی دادگاه‌های عمومی و انقلاب در امور مدنی · ۱۳۷۹",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3eee4",
+  "theme_color": "#1e4d43",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["education", "books"],
+  "prefer_related_applications": false
+}
