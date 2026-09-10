@@ -1,9 +1,9 @@
 {
-  "id": "/",
+  "id": "https://khabarelm-art.github.io/mobina/",
   "name": "مکتب آیین — آیین دادرسی مدنی",
   "short_name": "مکتب آیین",
   "description": "آموزش کامل قانون آیین دادرسی دادگاه‌های عمومی و انقلاب در امور مدنی · ۱۳۷۹",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
@@ -43,6 +43,9 @@
       "purpose": "any"
     }
   ],
-  "categories": ["education", "books"],
+  "categories": [
+    "education",
+    "books"
+  ],
   "prefer_related_applications": false
 }
