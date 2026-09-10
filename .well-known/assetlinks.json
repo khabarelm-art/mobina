@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.khabarelm_art.twa",
+    "sha256_cert_fingerprints": ["01:81:25:7D:90:59:CB:9E:20:E4:F5:0D:B9:73:A2:FD:C8:F5:E7:BD:80:BD:E1:9C:DD:EC:04:AE:4C:A6:BA:E8"]
+  }
+}]
