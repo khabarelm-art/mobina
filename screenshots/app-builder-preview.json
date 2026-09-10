@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "مکتب آیین",
+      "hasCanvas": false,
+      "bodyTextLen": 2081,
+      "bodyTextHash": "efcac182c4918ff3c788ddc70f0e9c1b68afc0ca11016d3425a514d29938f65b",
+      "bodyTextPrefix": "مکتب آیین آیین دادرسی مدنی · ۱ تا ۵۲۹ خانه جستجو آزمون یادداشت ق",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "مکتب آیین",
+      "hasCanvas": false,
+      "bodyTextLen": 2053,
+      "bodyTextHash": "ba15a9f4537af5196513b36e72c9272394a8377eabb29b6283f20ffa1ccbea7a",
+      "bodyTextPrefix": "مکتب آیین قانون آیین دادرسی دادگاه‌های عمومی و انقلاب در امور مد",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
